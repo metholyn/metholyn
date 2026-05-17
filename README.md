@@ -39,15 +39,3 @@ I have delivered 50+ projects, including SaaS platforms, custom web applications
 * **Payments:** Stripe, PayPal, Paddle
 
 > I focus on writing clean, maintainable code and delivering solutions that provide real business value — not just features.
-
----
-
-### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=metholyn&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metholyn&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metholyn&theme=tokyonight" alt="GitHub Streak" />
-</p>
