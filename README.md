@@ -16,7 +16,7 @@ I have delivered 50+ projects, including SaaS platforms, custom web applications
   <a href="https://t.me/metholyn_" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-* 🕒 **Working Hours:** Mon — Fri | 09:00 - 18:00 (Kyiv / Warsaw time, UTC+2)
+* 🕒 **Working Hours:** Mon — Fri | 06:00 - 22:00 (Kyiv / Warsaw time, UTC+2)
 * 💼 **Availability:** Open to remote opportunities, contract work, and collaboration.
 
 ---
