@@ -14,6 +14,7 @@ I have delivered 50+ projects, including SaaS platforms, custom web applications
   <a href="https://www.upwork.com/freelancers/~01cb5a9e56470c96d0" target="_blank"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="https://www.fiverr.com/metholyn" target="_blank"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
   <a href="https://t.me/metholyn_" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@metholyn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 * 🕒 **Working Hours:** Mon — Fri | 06:00 - 22:00 (Kyiv / Warsaw time, UTC+2)
